@@ -11,7 +11,7 @@ const Overlay = () => {
   return (
     <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none' }}>
       <div style={{ position: 'absolute', top: 40, left: 40, fontSize: '20px', fontFamily: 'Meslo', lineHeight: '1.6em', whiteSpace: 'pre' }}>
-        {/* &gt; Counter Strike 2 weapon viewer 
+        {/* &gt; 3D Gun Viewer 
         <br /> */}
         &gt; Click on spheres to change the view 
         <br />
